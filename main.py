@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-import backend
+import backend.py
 
 
 # Streamed response emulator
